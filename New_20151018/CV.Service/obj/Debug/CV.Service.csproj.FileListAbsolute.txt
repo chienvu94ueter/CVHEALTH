@@ -1,0 +1,60 @@
+C:\Users\chien vu\documents\visual studio 2015\Projects\New_20151018\CV.Service\bin\Debug\CV.Service.dll.config
+C:\Users\chien vu\documents\visual studio 2015\Projects\New_20151018\CV.Service\bin\Debug\CV.Service.dll
+C:\Users\chien vu\documents\visual studio 2015\Projects\New_20151018\CV.Service\bin\Debug\CV.Service.pdb
+C:\Users\chien vu\documents\visual studio 2015\Projects\New_20151018\CV.Service\bin\Debug\CV.Data.dll
+C:\Users\chien vu\documents\visual studio 2015\Projects\New_20151018\CV.Service\bin\Debug\CV.Entity.dll
+C:\Users\chien vu\documents\visual studio 2015\Projects\New_20151018\CV.Service\bin\Debug\EntityFramework.dll
+C:\Users\chien vu\documents\visual studio 2015\Projects\New_20151018\CV.Service\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\chien vu\documents\visual studio 2015\Projects\New_20151018\CV.Service\bin\Debug\CV.Data.pdb
+C:\Users\chien vu\documents\visual studio 2015\Projects\New_20151018\CV.Service\bin\Debug\CV.Entity.pdb
+C:\Users\chien vu\documents\visual studio 2015\Projects\New_20151018\CV.Service\bin\Debug\EntityFramework.xml
+C:\Users\chien vu\documents\visual studio 2015\Projects\New_20151018\CV.Service\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\chien vu\documents\visual studio 2015\Projects\New_20151018\CV.Service\obj\Debug\CV.Service.csprojResolveAssemblyReference.cache
+C:\Users\chien vu\documents\visual studio 2015\Projects\New_20151018\CV.Service\obj\Debug\CV.Service.dll
+C:\Users\chien vu\documents\visual studio 2015\Projects\New_20151018\CV.Service\obj\Debug\CV.Service.pdb
+C:\Users\chien vu\documents\visual studio 2015\Projects\New_20151018\CV.Service\bin\Debug\PagedList.dll
+C:\Users\chien vu\documents\visual studio 2015\Projects\New_20151018\CV.Service\bin\Debug\PagedList.Mvc.dll
+C:\Users\chien vu\documents\visual studio 2015\Projects\New_20151018\CV.Service\bin\Debug\System.Web.WebPages.dll
+C:\Users\chien vu\documents\visual studio 2015\Projects\New_20151018\CV.Service\bin\Debug\System.Web.Mvc.dll
+C:\Users\chien vu\documents\visual studio 2015\Projects\New_20151018\CV.Service\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\chien vu\documents\visual studio 2015\Projects\New_20151018\CV.Service\bin\Debug\System.Web.Razor.dll
+C:\Users\chien vu\documents\visual studio 2015\Projects\New_20151018\CV.Service\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\chien vu\documents\visual studio 2015\Projects\New_20151018\CV.Service\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\chien vu\documents\visual studio 2015\Projects\New_20151018\CV.Service\bin\Debug\PagedList.xml
+C:\Users\chien vu\documents\visual studio 2015\Projects\New_20151018\CV.Service\bin\Debug\PagedList.Mvc.xml
+C:\Users\chien vu\documents\visual studio 2015\Projects\New_20151018\CV.Service\bin\Debug\System.Web.WebPages.xml
+C:\Users\chien vu\documents\visual studio 2015\Projects\New_20151018\CV.Service\bin\Debug\System.Web.Mvc.xml
+C:\Users\chien vu\documents\visual studio 2015\Projects\New_20151018\CV.Service\bin\Debug\Microsoft.Web.Infrastructure.xml
+C:\Users\chien vu\documents\visual studio 2015\Projects\New_20151018\CV.Service\bin\Debug\System.Web.Razor.xml
+C:\Users\chien vu\documents\visual studio 2015\Projects\New_20151018\CV.Service\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\chien vu\documents\visual studio 2015\Projects\New_20151018\CV.Service\bin\Debug\System.Web.WebPages.Razor.xml
+D:\Project\New_20151018\CV.Service\bin\Debug\CV.Service.dll.config
+D:\Project\New_20151018\CV.Service\bin\Debug\CV.Service.dll
+D:\Project\New_20151018\CV.Service\bin\Debug\CV.Service.pdb
+D:\Project\New_20151018\CV.Service\bin\Debug\CV.Data.dll
+D:\Project\New_20151018\CV.Service\bin\Debug\CV.Entity.dll
+D:\Project\New_20151018\CV.Service\bin\Debug\EntityFramework.dll
+D:\Project\New_20151018\CV.Service\bin\Debug\EntityFramework.SqlServer.dll
+D:\Project\New_20151018\CV.Service\bin\Debug\PagedList.dll
+D:\Project\New_20151018\CV.Service\bin\Debug\PagedList.Mvc.dll
+D:\Project\New_20151018\CV.Service\bin\Debug\System.Web.WebPages.dll
+D:\Project\New_20151018\CV.Service\bin\Debug\System.Web.Mvc.dll
+D:\Project\New_20151018\CV.Service\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Project\New_20151018\CV.Service\bin\Debug\System.Web.Razor.dll
+D:\Project\New_20151018\CV.Service\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Project\New_20151018\CV.Service\bin\Debug\System.Web.WebPages.Razor.dll
+D:\Project\New_20151018\CV.Service\bin\Debug\CV.Data.pdb
+D:\Project\New_20151018\CV.Service\bin\Debug\CV.Entity.pdb
+D:\Project\New_20151018\CV.Service\bin\Debug\EntityFramework.xml
+D:\Project\New_20151018\CV.Service\bin\Debug\EntityFramework.SqlServer.xml
+D:\Project\New_20151018\CV.Service\bin\Debug\PagedList.xml
+D:\Project\New_20151018\CV.Service\bin\Debug\PagedList.Mvc.xml
+D:\Project\New_20151018\CV.Service\bin\Debug\System.Web.WebPages.xml
+D:\Project\New_20151018\CV.Service\bin\Debug\System.Web.Mvc.xml
+D:\Project\New_20151018\CV.Service\bin\Debug\Microsoft.Web.Infrastructure.xml
+D:\Project\New_20151018\CV.Service\bin\Debug\System.Web.Razor.xml
+D:\Project\New_20151018\CV.Service\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Project\New_20151018\CV.Service\bin\Debug\System.Web.WebPages.Razor.xml
+D:\Project\New_20151018\CV.Service\obj\Debug\CV.Service.csprojResolveAssemblyReference.cache
+D:\Project\New_20151018\CV.Service\obj\Debug\CV.Service.dll
+D:\Project\New_20151018\CV.Service\obj\Debug\CV.Service.pdb

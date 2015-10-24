@@ -1,0 +1,102 @@
+C:\Users\chien vu\documents\visual studio 2015\Projects\New_20151018\CV.Admin\bin\roslyn\csc.exe
+C:\Users\chien vu\documents\visual studio 2015\Projects\New_20151018\CV.Admin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\chien vu\documents\visual studio 2015\Projects\New_20151018\CV.Admin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\chien vu\documents\visual studio 2015\Projects\New_20151018\CV.Admin\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\chien vu\documents\visual studio 2015\Projects\New_20151018\CV.Admin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\chien vu\documents\visual studio 2015\Projects\New_20151018\CV.Admin\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\chien vu\documents\visual studio 2015\Projects\New_20151018\CV.Admin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\chien vu\documents\visual studio 2015\Projects\New_20151018\CV.Admin\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\chien vu\documents\visual studio 2015\Projects\New_20151018\CV.Admin\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\chien vu\documents\visual studio 2015\Projects\New_20151018\CV.Admin\bin\roslyn\vbc.exe
+C:\Users\chien vu\documents\visual studio 2015\Projects\New_20151018\CV.Admin\bin\roslyn\VBCSCompiler.exe
+C:\Users\chien vu\documents\visual studio 2015\Projects\New_20151018\CV.Admin\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\chien vu\documents\visual studio 2015\Projects\New_20151018\CV.Admin\bin\CV.Admin.dll.config
+C:\Users\chien vu\documents\visual studio 2015\Projects\New_20151018\CV.Admin\bin\CV.Admin.dll
+C:\Users\chien vu\documents\visual studio 2015\Projects\New_20151018\CV.Admin\bin\CV.Admin.pdb
+C:\Users\chien vu\documents\visual studio 2015\Projects\New_20151018\CV.Admin\bin\CKFinder.dll
+C:\Users\chien vu\documents\visual studio 2015\Projects\New_20151018\CV.Admin\bin\CV.Common.dll
+C:\Users\chien vu\documents\visual studio 2015\Projects\New_20151018\CV.Admin\bin\CV.Data.dll
+C:\Users\chien vu\documents\visual studio 2015\Projects\New_20151018\CV.Admin\bin\CV.Entity.dll
+C:\Users\chien vu\documents\visual studio 2015\Projects\New_20151018\CV.Admin\bin\CV.Service.dll
+C:\Users\chien vu\documents\visual studio 2015\Projects\New_20151018\CV.Admin\bin\EntityFramework.dll
+C:\Users\chien vu\documents\visual studio 2015\Projects\New_20151018\CV.Admin\bin\EntityFramework.SqlServer.dll
+C:\Users\chien vu\documents\visual studio 2015\Projects\New_20151018\CV.Admin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\chien vu\documents\visual studio 2015\Projects\New_20151018\CV.Admin\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\chien vu\documents\visual studio 2015\Projects\New_20151018\CV.Admin\bin\System.Web.Helpers.dll
+C:\Users\chien vu\documents\visual studio 2015\Projects\New_20151018\CV.Admin\bin\System.Web.Mvc.dll
+C:\Users\chien vu\documents\visual studio 2015\Projects\New_20151018\CV.Admin\bin\System.Web.Razor.dll
+C:\Users\chien vu\documents\visual studio 2015\Projects\New_20151018\CV.Admin\bin\System.Web.Webpages.Deployment.dll
+C:\Users\chien vu\documents\visual studio 2015\Projects\New_20151018\CV.Admin\bin\System.Web.Webpages.dll
+C:\Users\chien vu\documents\visual studio 2015\Projects\New_20151018\CV.Admin\bin\System.Web.Webpages.Razor.dll
+C:\Users\chien vu\documents\visual studio 2015\Projects\New_20151018\CV.Admin\bin\CV.Common.pdb
+C:\Users\chien vu\documents\visual studio 2015\Projects\New_20151018\CV.Admin\bin\CV.Data.pdb
+C:\Users\chien vu\documents\visual studio 2015\Projects\New_20151018\CV.Admin\bin\CV.Entity.pdb
+C:\Users\chien vu\documents\visual studio 2015\Projects\New_20151018\CV.Admin\bin\CV.Service.pdb
+C:\Users\chien vu\documents\visual studio 2015\Projects\New_20151018\CV.Admin\bin\CKFinder.pdb
+C:\Users\chien vu\documents\visual studio 2015\Projects\New_20151018\CV.Admin\bin\EntityFramework.xml
+C:\Users\chien vu\documents\visual studio 2015\Projects\New_20151018\CV.Admin\bin\EntityFramework.SqlServer.xml
+C:\Users\chien vu\documents\visual studio 2015\Projects\New_20151018\CV.Admin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\chien vu\documents\visual studio 2015\Projects\New_20151018\CV.Admin\bin\System.Web.Razor.xml
+C:\Users\chien vu\documents\visual studio 2015\Projects\New_20151018\CV.Admin\bin\System.Web.Webpages.xml
+C:\Users\chien vu\documents\visual studio 2015\Projects\New_20151018\CV.Admin\bin\System.Web.Webpages.Deployment.xml
+C:\Users\chien vu\documents\visual studio 2015\Projects\New_20151018\CV.Admin\bin\System.Web.Webpages.Razor.xml
+C:\Users\chien vu\documents\visual studio 2015\Projects\New_20151018\CV.Admin\bin\System.Web.Helpers.xml
+C:\Users\chien vu\documents\visual studio 2015\Projects\New_20151018\CV.Admin\bin\System.Web.Mvc.xml
+C:\Users\chien vu\documents\visual studio 2015\Projects\New_20151018\CV.Admin\obj\Debug\CV.Admin.csprojResolveAssemblyReference.cache
+C:\Users\chien vu\documents\visual studio 2015\Projects\New_20151018\CV.Admin\obj\Debug\CV.Admin.dll
+C:\Users\chien vu\documents\visual studio 2015\Projects\New_20151018\CV.Admin\obj\Debug\CV.Admin.pdb
+C:\Users\chien vu\documents\visual studio 2015\Projects\New_20151018\CV.Admin\bin\PagedList.dll
+C:\Users\chien vu\documents\visual studio 2015\Projects\New_20151018\CV.Admin\bin\PagedList.Mvc.dll
+C:\Users\chien vu\documents\visual studio 2015\Projects\New_20151018\CV.Admin\bin\PagedList.xml
+C:\Users\chien vu\documents\visual studio 2015\Projects\New_20151018\CV.Admin\bin\PagedList.Mvc.xml
+D:\Project\New_20151018\CV.Admin\bin\roslyn\csc.exe
+D:\Project\New_20151018\CV.Admin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Project\New_20151018\CV.Admin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Project\New_20151018\CV.Admin\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Project\New_20151018\CV.Admin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Project\New_20151018\CV.Admin\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Project\New_20151018\CV.Admin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Project\New_20151018\CV.Admin\bin\roslyn\System.Collections.Immutable.dll
+D:\Project\New_20151018\CV.Admin\bin\roslyn\System.Reflection.Metadata.dll
+D:\Project\New_20151018\CV.Admin\bin\roslyn\vbc.exe
+D:\Project\New_20151018\CV.Admin\bin\roslyn\VBCSCompiler.exe
+D:\Project\New_20151018\CV.Admin\bin\roslyn\VBCSCompiler.exe.config
+D:\Project\New_20151018\CV.Admin\bin\CV.Admin.dll.config
+D:\Project\New_20151018\CV.Admin\bin\CV.Admin.dll
+D:\Project\New_20151018\CV.Admin\bin\CV.Admin.pdb
+D:\Project\New_20151018\CV.Admin\bin\CKFinder.dll
+D:\Project\New_20151018\CV.Admin\bin\CV.Common.dll
+D:\Project\New_20151018\CV.Admin\bin\CV.Data.dll
+D:\Project\New_20151018\CV.Admin\bin\CV.Entity.dll
+D:\Project\New_20151018\CV.Admin\bin\CV.Service.dll
+D:\Project\New_20151018\CV.Admin\bin\EntityFramework.dll
+D:\Project\New_20151018\CV.Admin\bin\EntityFramework.SqlServer.dll
+D:\Project\New_20151018\CV.Admin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Project\New_20151018\CV.Admin\bin\Microsoft.Web.Infrastructure.dll
+D:\Project\New_20151018\CV.Admin\bin\PagedList.dll
+D:\Project\New_20151018\CV.Admin\bin\PagedList.Mvc.dll
+D:\Project\New_20151018\CV.Admin\bin\System.Web.Helpers.dll
+D:\Project\New_20151018\CV.Admin\bin\System.Web.Mvc.dll
+D:\Project\New_20151018\CV.Admin\bin\System.Web.Razor.dll
+D:\Project\New_20151018\CV.Admin\bin\System.Web.Webpages.Deployment.dll
+D:\Project\New_20151018\CV.Admin\bin\System.Web.Webpages.dll
+D:\Project\New_20151018\CV.Admin\bin\System.Web.Webpages.Razor.dll
+D:\Project\New_20151018\CV.Admin\bin\CV.Common.pdb
+D:\Project\New_20151018\CV.Admin\bin\CV.Data.pdb
+D:\Project\New_20151018\CV.Admin\bin\CV.Entity.pdb
+D:\Project\New_20151018\CV.Admin\bin\CV.Service.pdb
+D:\Project\New_20151018\CV.Admin\bin\CKFinder.pdb
+D:\Project\New_20151018\CV.Admin\bin\EntityFramework.xml
+D:\Project\New_20151018\CV.Admin\bin\EntityFramework.SqlServer.xml
+D:\Project\New_20151018\CV.Admin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Project\New_20151018\CV.Admin\bin\PagedList.xml
+D:\Project\New_20151018\CV.Admin\bin\PagedList.Mvc.xml
+D:\Project\New_20151018\CV.Admin\bin\System.Web.Razor.xml
+D:\Project\New_20151018\CV.Admin\bin\System.Web.Webpages.xml
+D:\Project\New_20151018\CV.Admin\bin\System.Web.Webpages.Deployment.xml
+D:\Project\New_20151018\CV.Admin\bin\System.Web.Webpages.Razor.xml
+D:\Project\New_20151018\CV.Admin\bin\System.Web.Helpers.xml
+D:\Project\New_20151018\CV.Admin\bin\System.Web.Mvc.xml
+D:\Project\New_20151018\CV.Admin\obj\Debug\CV.Admin.csprojResolveAssemblyReference.cache
+D:\Project\New_20151018\CV.Admin\obj\Debug\CV.Admin.dll
+D:\Project\New_20151018\CV.Admin\obj\Debug\CV.Admin.pdb

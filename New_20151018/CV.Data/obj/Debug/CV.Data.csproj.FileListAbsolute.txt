@@ -1,0 +1,24 @@
+C:\Users\chien vu\documents\visual studio 2015\Projects\New_20151018\CV.Data\bin\Debug\CV.Data.dll.config
+C:\Users\chien vu\documents\visual studio 2015\Projects\New_20151018\CV.Data\bin\Debug\CV.Data.dll
+C:\Users\chien vu\documents\visual studio 2015\Projects\New_20151018\CV.Data\bin\Debug\CV.Data.pdb
+C:\Users\chien vu\documents\visual studio 2015\Projects\New_20151018\CV.Data\bin\Debug\CV.Entity.dll
+C:\Users\chien vu\documents\visual studio 2015\Projects\New_20151018\CV.Data\bin\Debug\EntityFramework.dll
+C:\Users\chien vu\documents\visual studio 2015\Projects\New_20151018\CV.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\chien vu\documents\visual studio 2015\Projects\New_20151018\CV.Data\bin\Debug\CV.Entity.pdb
+C:\Users\chien vu\documents\visual studio 2015\Projects\New_20151018\CV.Data\bin\Debug\EntityFramework.xml
+C:\Users\chien vu\documents\visual studio 2015\Projects\New_20151018\CV.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\chien vu\documents\visual studio 2015\Projects\New_20151018\CV.Data\obj\Debug\CV.Data.csprojResolveAssemblyReference.cache
+C:\Users\chien vu\documents\visual studio 2015\Projects\New_20151018\CV.Data\obj\Debug\CV.Data.dll
+C:\Users\chien vu\documents\visual studio 2015\Projects\New_20151018\CV.Data\obj\Debug\CV.Data.pdb
+D:\Project\New_20151018\CV.Data\bin\Debug\CV.Data.dll.config
+D:\Project\New_20151018\CV.Data\bin\Debug\CV.Data.dll
+D:\Project\New_20151018\CV.Data\bin\Debug\CV.Data.pdb
+D:\Project\New_20151018\CV.Data\bin\Debug\CV.Entity.dll
+D:\Project\New_20151018\CV.Data\bin\Debug\EntityFramework.dll
+D:\Project\New_20151018\CV.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\Project\New_20151018\CV.Data\bin\Debug\CV.Entity.pdb
+D:\Project\New_20151018\CV.Data\bin\Debug\EntityFramework.xml
+D:\Project\New_20151018\CV.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\Project\New_20151018\CV.Data\obj\Debug\CV.Data.csprojResolveAssemblyReference.cache
+D:\Project\New_20151018\CV.Data\obj\Debug\CV.Data.dll
+D:\Project\New_20151018\CV.Data\obj\Debug\CV.Data.pdb

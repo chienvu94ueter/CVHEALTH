@@ -1,0 +1,38 @@
+﻿@model List<CV.Web.Models.ViewModel.NewViewModel>
+@{
+    ViewBag.Title = "Trang danh mục";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<!-- Page Content -->
+<div class="container">
+
+    <div class="row">
+
+    
+        <h2 class="page-header" style="background-image: url(/Assets/images/icon-label.png); background-repeat: no-repeat; padding-left: 40px; line-height: 35px; height: 35px; color: whitesmoke; text-transform: uppercase;font-size: 14px">
+            @ViewBag.CategoryName
+        </h2>
+
+    </div>
+    </div>
+    <!-- /.row -->
+<!-- Blog Post Row -->
+<div class="row">
+    @foreach (var item in Model)
+    {
+        <div class="col-xs-6 col-md-3 img-portfolio">
+            <a href="/@item.categoryMetaTitle/@item.MetaTittle">
+                <img class="img-responsive img-hover" src="@item.Image" style="height:200px" alt="">
+            </a>
+            <h3>
+                <center>
+                    <a href="/@item.categoryMetaTitle/@item.MetaTittle" style="text-decoration: none; text-align: justify">@item.Name</a>
+                </center>
+            </h3>
+
+        </div>
+
+    }
+    <!-- /.row -->
+    <hr>
+</div>

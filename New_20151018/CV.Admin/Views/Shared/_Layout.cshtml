@@ -1,0 +1,37 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CVPRO | Dashboard</title>
+
+    <link href="~/Assets/css/bootstrap.min.css" rel="stylesheet" />
+    <link href="~/Assets/css/font-awesome.min.css" rel="stylesheet" />
+    <link href="~/Assets/css/style.css" rel="stylesheet" />
+
+</head>
+
+<body>
+    <div id="wrapper">
+        <nav class="navbar-default navbar-static-side" role="navigation">
+            @RenderPage("SliderBar.cshtml")
+        </nav>
+        <div id="page-wrapper" class="gray-bg dashbard-1">
+            <div class="row border-bottom">
+                @RenderPage("NavBar.cshtml")
+            </div>
+            @RenderBody()
+        </div>
+    </div>
+    <!-- Mainly scripts -->
+    <script src="~/Assets/js/jquery-2.1.1.js"></script>
+    <script src="~/Assets/js/bootstrap.min.js"></script>
+    <script src="~/Assets/js/jquery.metisMenu.js"></script>
+    <script src="~/Assets/js/jquery.slimscroll.min.js"></script>
+    <!-- Custom and plugin javascript -->
+    <script src="~/Assets/js/inspinia.js"></script>
+    <script src="~/Assets/Ckeditor/ckeditor_4.5.3_full/ckeditor/ckeditor.js"></script>
+    <script src="~/Assets/ckfinder/ckfinder.js"></script>
+    @RenderSection("jsFooter", required: false)
+</html>

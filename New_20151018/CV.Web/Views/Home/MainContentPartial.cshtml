@@ -1,0 +1,45 @@
+﻿@model System.Collections.Generic.List<CV.Web.Models.ViewModel.CategoryViewModel>
+@using CV.Entity
+@{
+    ViewBag.Title = "title";
+}
+<div c></div>
+<div class="col-md-1">
+    <label class="label label-primary label-inverse pull-right">Giới thiệu</label>
+</div>
+<div class="col-md-11 col-xs-6 col-sm-6 pull-right">
+    <marquee>Chào mừng đến với trang tư vấn sức khỏe CVHEALTH.Chúng tôi hy vọng sẽ đem đến những thông tin bổ ích cho sức khỏe của bạn và gia đình</marquee>
+</div>
+@foreach (var item in Model)
+{
+    <!-- Projects Row -->
+    <div class="row">
+
+    <h3 class="page-header" style="background-image: url(/Assets/images/icon-label.png); background-repeat: no-repeat; padding-left: 40px; line-height: 35px; height: 35px; color: whitesmoke; text-transform: uppercase;font-size: 14px">
+            @item.cate.Name
+
+        </h3>
+        @foreach (var a in item.news)
+        {
+            <div class="col-md-3 img-portfolio">
+                <a href="@a.categoryMetaTitle/@a.MetaTittle" class="thumbnail">
+                    <img class="img-responsive img-hover" src="@a.Image" alt="" style="height: 300px">
+                </a>
+                <h4 class="text-justify">
+
+                    <a href="#" id="txtNameNews">
+                        <p>@a.Name</p>
+                    </a>
+                </h4>
+                <p class="text-justify">@a.Description</p>
+            </div>
+
+        }
+
+        <!-- /.row -->
+        <hr>
+    </div>
+
+}
+
+

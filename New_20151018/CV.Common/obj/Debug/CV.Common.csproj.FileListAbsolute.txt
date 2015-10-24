@@ -1,0 +1,12 @@
+C:\Users\chien vu\documents\visual studio 2015\Projects\New_20151018\CV.Common\bin\Debug\CV.Common.dll
+C:\Users\chien vu\documents\visual studio 2015\Projects\New_20151018\CV.Common\bin\Debug\CV.Common.pdb
+C:\Users\chien vu\documents\visual studio 2015\Projects\New_20151018\CV.Common\obj\Debug\CV.Common.dll
+C:\Users\chien vu\documents\visual studio 2015\Projects\New_20151018\CV.Common\obj\Debug\CV.Common.pdb
+C:\Users\chien vu\documents\visual studio 2015\Projects\New_20151018\CV.Common\bin\Debug\CKFinder.dll
+C:\Users\chien vu\documents\visual studio 2015\Projects\New_20151018\CV.Common\obj\Debug\CV.Common.csprojResolveAssemblyReference.cache
+D:\Project\New_20151018\CV.Common\bin\Debug\CV.Common.dll
+D:\Project\New_20151018\CV.Common\bin\Debug\CV.Common.pdb
+D:\Project\New_20151018\CV.Common\bin\Debug\CKFinder.dll
+D:\Project\New_20151018\CV.Common\obj\Debug\CV.Common.csprojResolveAssemblyReference.cache
+D:\Project\New_20151018\CV.Common\obj\Debug\CV.Common.dll
+D:\Project\New_20151018\CV.Common\obj\Debug\CV.Common.pdb

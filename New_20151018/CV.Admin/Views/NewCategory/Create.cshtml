@@ -1,0 +1,73 @@
+﻿@{
+    ViewBag.Title = "Create";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+@section jsFooter{
+    <script>
+     $('#btnSelectImage').on('click',function() {
+            var finder = new CKFinder();
+            finder.selectActionFunction = function(url) {
+                $('#txtImage').val(url);
+            };
+            finder.popup();
+     })
+
+    </script>
+}
+<div class="col-lg-6" style="margin: 200px">
+    <div class="ibox-content">
+        <div class="text-center" style="margin-right: 0px">
+            <a data-toggle="modal" style="margin-right: 20px" class="btn btn-primary" href="#modal-form">Thêm mới danh mục</a>
+            <a href="/NewCategory/Index" class="btn btn-primary">Danh sách danh mục</a>
+        </div>
+        <div id="modal-form" class="modal fade" aria-hidden="true">
+            <div class="modal-dialog">
+                <div class="modal-content">
+                    <div class="modal-body">
+                        <div class="row">
+                            <div class="col-sm-12 b-r">
+                                <h3 class="m-t-none m-b pull-right">Thêm mới danh mục</h3>
+
+                                <p>Nhập thông tin danh mục</p>
+                                @using (Html.BeginForm("Create", "NewCategory", FormMethod.Post))
+                                {
+
+                                    <div class="form-group">
+                                        <label>Tên danh mục</label>
+                                        <input type="text" placeholder="Nhập tên danh mục" class="form-control" required="" name="categoryName">
+                                    </div>
+                                    <div class="form-group">
+                                        <label>Tiêu đề SEO</label>
+                                        <input type="text" placeholder="Nhập tiêu đề SEO" class="form-control" required="" name="metaTitle">
+                                    </div>
+                                    <div class="form-group">
+                                        <label>Mô tả</label>
+                                        <input type="text" placeholder="Nhập mô tả danh mục" class="form-control" name="description">
+                                    </div>
+                                    <div class="form-group">
+                                        <label>Ảnh</label>
+                                        <input type="text" class="form-control" required="" name="categoryImage" id="txtImage">
+                                        <br />
+                                        <a id="btnSelectImage" href="#">Chọn ảnh</a>
+                                    </div>
+                                    <div class="form-group">
+                                        <label>Ngày tạo</label>
+                                        <input type="date" placeholder="Nhập ngày tạo" class="form-control" required="" name="categoryCreateDate">
+                                    </div>
+                                    
+
+                                    <div>
+                                        <button class="btn btn-sm btn-primary pull-right m-t-n-xs" type="submit"><strong>Tạo mới</strong></button>
+                                    </div>
+                                }
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+

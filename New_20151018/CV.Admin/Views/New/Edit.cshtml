@@ -1,0 +1,93 @@
+﻿@using CV.Entity.Table
+@model News
+@{
+    ViewBag.Title = "Create";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    var cate = (List<NewCategory>)ViewBag.Category;
+}
+@section jsFooter{
+    <script>
+        $('#btnSelectImage').on('click', function() {
+            var finder = new CKFinder();
+            finder.selectActionFunction = function(url) {
+                $('#txtImage').val(url);
+            };
+            finder.popup();
+        });
+     var editor = CKEDITOR.replace('txtContent', {
+         cutomConfig: '~/Assets/Ckeditor/ckeditor_4.5.3_full/ckeditor/config.js',
+     });
+    </script>
+}
+<div class="col-lg-6" style="margin: 200px">
+    <div class="ibox-content">
+        <div class="text-center" style="margin-right: 0px">
+            <a data-toggle="modal" style="margin-right: 20px" class="btn btn-primary" href="#modal-form">Cập nhật bài viết</a>
+            <a href="/New/Index" class="btn btn-primary">Danh sách bài viết</a>
+        </div>
+        <div id="modal-form" class="modal fade" aria-hidden="true">
+            <div class="modal-dialog">
+                <div class="modal-content">
+                    <div class="modal-body">
+                        <div class="row">
+                            <div class="col-sm-12 b-r">
+                                <h3 class="m-t-none m-b pull-right">Cập nhật bài viết</h3>
+
+                                <p>Nhập thông tin bài viết</p>
+                                @using (Html.BeginForm("Edit", "New", FormMethod.Post))
+                                {
+                                    <input type="text" name="newsId" value="@Model.ID" style="display: none" />
+                                    <div class="form-group">
+                                        <label>Tên bài viết</label>
+                                        <input type="text" placeholder="Nhập tên bài viết"  value="@Model.Name" class="form-control" required="" name="title">
+                                    </div>
+                                    <div class="form-group">
+                                        <label>Tiêu đề SEO</label>
+                                        <input type="text" placeholder="Nhập tiêu đề SEO"  value="@Model.MetaTittle" class="form-control" required="" name="metaTitle">
+                                    </div>
+                                    <div class="form-group">
+                                        <label>Mô tả</label>
+                                        <input type="text" placeholder="Nhập mô tả bài viết" value="@Model.Description" class="form-control" name="description">
+                                    </div>
+                                    <div class="form-group">
+                                        <label>Danh mục</label>
+                                        <select name="categoryName">
+                                            @foreach (var item in cate)
+                                            {
+                                                <option>@item.Name</option>
+                                            }
+                                        </select>
+                                    </div>
+                                    <div class="form-group">
+                                        <label>Ảnh</label>
+                                        <input type="text" class="form-control" value="@Model.Image" required="" name="Image" id="txtImage">
+                                        <br />
+                                        <a id="btnSelectImage" href="#">Chọn ảnh</a>
+                                    </div>
+                                    <div class="form-group">
+                                        <label>Chi tiết</label>
+                                        <textarea name="detail" aria-valuetext="@Model.Details" class="form-control" id="txtContent">@Model.Details</textarea>
+                                    </div>
+                                    <div class="form-group">
+                                        <label>Ngày cập nhật</label>
+                                        <input type="date" placeholder="Nhập ngày tạo" value="@Model.CreatedDate" class="form-control" required="" name="newsCreateDate">
+                                    </div>
+                                    <div class="form-group">
+                                        <label>Trạng thái</label>
+                                        <input type="checkbox" value="true" required="" name="newStatus">
+                                    </div>
+                                    <div>
+                                        <button class="btn btn-sm btn-primary pull-right m-t-n-xs" type="submit"><strong>Cập nhật</strong></button>
+                                    </div>
+                                }
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
